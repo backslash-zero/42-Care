@@ -39,15 +39,21 @@ This community is at the moment envisioned in the form of a Slack Workspace, acc
 
 ## Current Roadmap
 ### 🇫🇷
-- [ ] Trouver des collaborateur sur ce projet (ping me @ cmeunier(at)student.42.fr)
+- [ ] Trouver des collaborateur sur ce projet (ping me @ cmeunier(at)student.42.fr / Discord et Slack de l'école)
 - [ ] Mise en relation avec des psychologue / personnes avec un background sur ces thèmes pour nous conseiller efficacement
-- [ ] Création et ouverture du slack
+- [x] Création du [slack](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw)
+- [ ] Lancement officiel
 
 ### 🇬🇧
-- [ ] Find collaborators for this project (ping me @ cmeunier(at)student.42.fr)
+- [ ] Find collaborators for this project (ping me @ cmeunier(at)student.42.fr /  Discord et Slack de l'école)
 - [ ] Getting in touch with psychologists / people with a background on these topics to advise us efficiently
-- [ ] Creation and opening of the slack workspace(check it out here)
+- [x] Creating [Slack](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw)
+- [ ] Slack official launch
 
 ## Curent team
-Célestin Meunier — cmeunier@student.42.fr
-Tristan Bonnesson — trbonnes@student.42.fr
+Célestin Meunier    —   cmeunier@student.42.fr
+Redwane Zafari      —   rzafari@student.42.fr
+Tristan Bonnesson   —   trbonnes@student.42.fr
+
+# External links
+[Stress, solitude, dépression… Les étudiants sévèrement touchés par le confinement](https://www.letudiant.fr/lifestyle/Sante-mutuelle-et-assurance/solitude-depression-les-etudiants-sont-severement-touches-par-le-confinement.html)
