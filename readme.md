@@ -11,7 +11,7 @@ Slack link: [here](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l441
 ## Why
 
 ### 🇫🇷
-Le contexte sanitaire et social actuel induit une forte isolation, particulièrement chez les étudiants, dont les conditions de vie se sont vues dégradés. Les conséquences de la crise sur la santé mentale des étudiants peuvent avoir des conséquences sur leurs implications dans le cursus, et donc sur leurs resultats, mais peuvent avoir aussi des conséquence humaines encore plus tragiques.
+Le contexte sanitaire et social actuel induit un fort isolement, particulièrement chez les étudiants, dont les conditions de vie se sont vues dégradés. Les conséquences de la crise sur la santé mentale des étudiants peuvent avoir des conséquences sur leurs implications dans le cursus, et donc sur leurs resultats, mais peuvent avoir aussi des conséquence humaines encore plus tragiques.
 
 ### 🇬🇧
 The current health and social context leads to a high level of isolation, particularly among students, whose living conditions have deteriorated. The consequences of the crisis on the mental health of students can have consequences on their implications in the curriculum, and therefore on their results, but can also have even more tragic human consequences.
