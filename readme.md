@@ -1,5 +1,7 @@
 # 42-Mental-Health
 
+Slack link: [here](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw)
+
 ### 🇫🇷
 42-Mental-Health est un (projet de) _club_ à [l'école 42](https://www.42.fr) qui a pour but de sensibiliser les étudiants autour des thème de la santé mentale et de la psychologie, et d'apporter un soutien aux étudiants qui en ont besoin.
 
@@ -51,9 +53,9 @@ This community is at the moment envisioned in the form of a Slack Workspace, acc
 - [ ] Slack official launch
 
 ## Curent team
-Célestin Meunier    —   cmeunier@student.42.fr
-Redwane Zafari      —   rzafari@student.42.fr
-Tristan Bonnesson   —   trbonnes@student.42.fr
+- Célestin Meunier    —   cmeunier@student.42.fr
+- Redwane Zafari      —   rzafari@student.42.fr
+- Tristan Bonnesson   —   trbonnes@student.42.fr
 
 # External links
 [Stress, solitude, dépression… Les étudiants sévèrement touchés par le confinement](https://www.letudiant.fr/lifestyle/Sante-mutuelle-et-assurance/solitude-depression-les-etudiants-sont-severement-touches-par-le-confinement.html)
