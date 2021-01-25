@@ -49,7 +49,7 @@ This community is at the moment envisioned in the form of a Slack Workspace, acc
 ### 🇬🇧
 - [ ] Find collaborators for this project (ping me @ cmeunier(at)student.42.fr / Discord et Slack de l'école)
 - [ ] Getting in touch with psychologists / people with a background on these topics to advise us efficiently
-- [x] [Slack] creation (https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw)
+- [x] [Slack](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw) creation 
 - [ ] Slack official launch
 
 ## Curent team
