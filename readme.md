@@ -59,3 +59,4 @@ This community is at the moment envisioned in the form of a Slack Workspace, acc
 
 # External links
 [Stress, solitude, dépression… Les étudiants sévèrement touchés par le confinement](https://www.letudiant.fr/lifestyle/Sante-mutuelle-et-assurance/solitude-depression-les-etudiants-sont-severement-touches-par-le-confinement.html)
+[L’accès des étudiants à la vaccination contre le Covid-19 est impératif](https://www.lemonde.fr/idees/article/2021/01/21/l-acces-des-etudiants-a-la-vaccination-contre-le-covid-19-est-imperatif_6067025_3232.html)
