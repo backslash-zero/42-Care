@@ -1,12 +1,12 @@
-# 42-Mental-Health
+# 42-Care
 
 Slack link: [here](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw)
 
 ### 🇫🇷
-42-Mental-Health est un (projet de) _club_ à [l'école 42](https://www.42.fr) qui a pour but de sensibiliser les étudiants autour des thème de la santé mentale et de la psychologie, et d'apporter un soutien aux étudiants qui en ont besoin.
+42-Care est un (projet de) _club_ à [l'école 42](https://www.42.fr) qui a pour but de sensibiliser les étudiants autour des thème de la santé mentale et de la psychologie, et d'apporter un soutien aux étudiants qui en ont besoin.
 
 ### 🇬🇧
-42-Mental-Health is a (project of) _club_ at [42 School ](https://www.42.fr) that aims to raise awareness about mental health and psychology among students, and to provide support to students in need.
+42-Care is a (project of) _club_ at [42 School ](https://www.42.fr) that aims to raise awareness about mental health and psychology among students, and to provide support to students in need.
 
 ## Why
 
@@ -41,21 +41,24 @@ This community is at the moment envisioned in the form of a Slack Workspace, acc
 
 ## Current Roadmap
 ### 🇫🇷
-- [ ] Trouver des collaborateur sur ce projet (ping me @ cmeunier(at)student.42.fr / Discord et Slack de l'école)
-- [ ] Mise en relation avec des psychologue / personnes avec un background sur ces thèmes pour nous conseiller efficacement
+- [x] Trouver des collaborateur sur ce projet (ping me @ cmeunier(at)student.42.fr / Discord et Slack de l'école)
+- [x] Mise en relation avec des psychologue / personnes avec un background sur ces thèmes pour nous conseiller efficacement
 - [x] Création du [Slack](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw)
 - [ ] Lancement officiel
 
 ### 🇬🇧
-- [ ] Find collaborators for this project (ping me @ cmeunier(at)student.42.fr / Discord et Slack de l'école)
-- [ ] Getting in touch with psychologists / people with a background on these topics to advise us efficiently
+- [x] Find collaborators for this project (ping me @ cmeunier(at)student.42.fr / Discord et Slack de l'école)
+- [x] Getting in touch with psychologists / people with a background on these topics to advise us efficiently
 - [x] [Slack](https://join.slack.com/t/42mentalhealth/shared_invite/zt-l44182g7-xHDI87Uher~yUfdiuNZbBw) creation 
 - [ ] Slack official launch
 
 ## Curent team
-- Célestin Meunier    —   cmeunier@student.42.fr
-- Redwane Zafari      —   rzafari@student.42.fr
-- Tristan Bonnesson   —   trbonnes@student.42.fr
+- Célestin Meunier    —   cmeunier@student.42.fr  (President)
+- Redwane Zafari      —   rzafari@student.42.fr   (Vice-President)
+- Cléo Rebert         -   creber@42network.org    (Secretary)
+- Tristan Bonnesson   -   trbonnes@student.42.fr  (Treasurer)
+- Mathilde Boivin  
+- Antoine Langlois   
 
 # External links
 [Stress, solitude, dépression… Les étudiants sévèrement touchés par le confinement](https://www.letudiant.fr/lifestyle/Sante-mutuelle-et-assurance/solitude-depression-les-etudiants-sont-severement-touches-par-le-confinement.html)
